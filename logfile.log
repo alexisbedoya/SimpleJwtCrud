@@ -219,3 +219,5 @@
 {"level":"info","message":"Mongo Db Connected.....","timestamp":"2021-06-20T18:22:34.558Z"}
 {"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2021-06-20T18:43:02.528Z"}
 {"level":"info","message":"Mongo Db Connected.....","timestamp":"2021-06-20T18:43:03.610Z"}
+{"level":"info","message":"App listening on url: http://localhost:8080","timestamp":"2021-06-20T18:46:25.366Z"}
+{"level":"info","message":"Mongo Db Connected.....","timestamp":"2021-06-20T18:46:26.406Z"}
