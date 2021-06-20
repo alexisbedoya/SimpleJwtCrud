@@ -1,5 +1,5 @@
 {
-  "name": "node-express-mongo-crud-authorization",
+  "name": "simplejwtcrud",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
