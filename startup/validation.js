@@ -2,6 +2,6 @@
 
 const Joi = require('joi');
 
-module.exports = () =>{
-    Joi.objectId =  require('joi-objectid')(Joi);
+module.exports = () => {
+    Joi.objectId = require('joi-objectid')(Joi);
 }
